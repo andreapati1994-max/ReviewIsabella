@@ -1,54 +1,54 @@
-# Remotion video
+# Video con Remotion
 
 <p align="center">
   <a href="https://github.com/remotion-dev/logo">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng">
-      <img alt="Animated Remotion Logo" src="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif">
+      <img alt="Logo animado de Remotion" src="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif">
     </picture>
   </a>
 </p>
 
-Welcome to your Remotion project!
+¡Bienvenido a tu proyecto de Remotion!
 
-## Commands
+## Comandos
 
-**Install Dependencies**
+**Instalar dependencias**
 
 ```console
 npm i --loglevel=error
 ```
 
-**Start Preview**
+**Abrir la vista previa (Remotion Studio)**
 
 ```console
 npm run dev
 ```
 
-**Render video**
+**Renderizar el video**
 
 ```console
 npx remotion render
 ```
 
-**Upgrade Remotion**
+**Actualizar Remotion**
 
 ```console
 npx remotion upgrade
 ```
 
-## Docs
+## Documentación
 
-Get started with Remotion by reading the [fundamentals page](https://www.remotion.dev/docs/the-fundamentals).
+Empieza con Remotion leyendo la [página de fundamentos](https://www.remotion.dev/docs/the-fundamentals) (en inglés).
 
-## Help
+## Ayuda
 
-We provide help on our [Discord server](https://discord.gg/6VzzNDwUwV).
+Hay soporte en el [servidor de Discord](https://discord.gg/6VzzNDwUwV).
 
-## Issues
+## Problemas
 
-Found an issue with Remotion? [File an issue here](https://github.com/remotion-dev/remotion/issues/new).
+¿Encontraste un error en Remotion? [Repórtalo aquí](https://github.com/remotion-dev/remotion/issues/new).
 
-## License
+## Licencia
 
-Note that for some entities a company license is needed. [Read the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
+Algunas empresas necesitan una licencia comercial. [Lee los términos aquí](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
